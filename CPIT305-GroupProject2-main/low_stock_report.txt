@@ -1,3 +1,0 @@
-101 | Apple | 2
-102 | Milk | 1
-103 | Orange | 0
